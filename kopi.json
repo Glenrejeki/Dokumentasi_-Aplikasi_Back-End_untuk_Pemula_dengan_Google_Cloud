@@ -1,0 +1,21 @@
+{
+  "message" : "Berikut daftar kopi yang tersedia", "coffees":[
+    {
+      "id" : 1,
+      "name" : "kopi Tubruk",
+      "price" : 12000
+    },
+
+    {
+      "id" : 2,
+      "name" : "Kopi Tari",
+      "price": "15000"
+    },
+
+    {
+      "id":3,
+      "name" : "Kopi Jawa",
+      "price" : 18000
+    }
+  ]
+}

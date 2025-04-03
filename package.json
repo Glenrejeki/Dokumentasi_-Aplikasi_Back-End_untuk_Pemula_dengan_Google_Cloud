@@ -1,0 +1,15 @@
+{
+  "name": "belajar-membuat-aplikasi-back-end-untuk-pemula-dengan-google-cloud",
+  "version": "1.0.0",
+  "description": "Persiapan ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.4.0",
+    "dotenv": "^16.4.7"
+  }
+}
